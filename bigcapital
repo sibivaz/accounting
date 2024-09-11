@@ -1,0 +1,1 @@
+git clone --depth 1 -b main https://github.com/bigcapitalhq/bigcapital.git && cd ./bigcapital
